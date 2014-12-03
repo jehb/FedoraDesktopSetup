@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Okay, so it's a bash script. You should probably add some stuff.
+
+echo 'We ought to start from a clean slate.'
+sudo yum update -y
