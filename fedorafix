@@ -1,6 +1,12 @@
 #!/bin/bash
 
+dir="$(dirname "$0")"
+
+STUFF="$dir/package.list"
+
 # Okay, so it's a bash script. You should probably add some stuff.
 
 echo 'We ought to start from a clean slate.'
 sudo yum update -y
+echo 'Now we should install some important stuff'
+sudo yum install -y $(cat $STFF)
