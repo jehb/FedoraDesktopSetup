@@ -1,4 +1,4 @@
-FedoraDoneQuick
+Fedora Done Quick
 ==================
 
 Make Fedora instantly better with this install script.
