@@ -1,9 +1,16 @@
-FedoraDesktopSetup
+FedoraDoneQuick
 ==================
 
-Make Fedora instantly better with this install script
+Make Fedora instantly better with this install script.
 
 There are a few shell scripts out there on GitHub, but most don't do what _I_ want them to, and even fewer actually come with a license. So rather than forking something without a license and feeling vaguely uncomfortable about it, I'm creating my own, and doing it right. Well, right enough. For me. Use at your own risk.
+
+Other Fedora Setup Scripts
+--------------------------
+
+These scripts served as an inspiration for my own. If you're interested in creating your own version of this script, consider checking these other tools out first, as they might take an approach that appeals to you, or just give you some ideas of things you'd like to implement.
+
+* Sam Hewitt's [Fedora Post Install Script](https://github.com/snwh/fedora-post-install/)
 
 Todo
 ----
