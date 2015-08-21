@@ -33,8 +33,8 @@ dnf install scipy python-autopep8 gcc-c++ arduino -y
 
 # terminal
 
-dnf install tmux -y
+dnf install tmux htop vim -y
 
 # misc
 
-dnf install calibre dosbox -y
+dnf install calibre dosbox xchat -y
