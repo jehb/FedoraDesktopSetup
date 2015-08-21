@@ -31,6 +31,10 @@ dnf install ffmpeg vlc
 
 dnf install scipy python-autopep8 gcc-c++ arduino -y
 
+# terminal
+
+dnf install tmux -y
+
 # misc
 
 dnf install calibre dosbox -y
