@@ -13,7 +13,7 @@ dnf install robomongo mongodb-server -y
 
 # editors
 
-dnf install atom -y
+dnf install atom gvim -y
 
 # gis
 
