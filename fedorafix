@@ -23,6 +23,8 @@ dnf install qgis grass gdal -y
 
 dnf install gimp inkscape ImageMagick graphviz blender dia -y
 
+# Need to add: http://gmic.eu/gimp.shtml
+
 # media
 
 dnf install ffmpeg vlc
