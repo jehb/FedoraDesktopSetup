@@ -21,7 +21,9 @@ In lieu of using a bug tracker or tasklist, let me just lay out here the things 
 * Add some codecs
 * Fonts?
 * Set up ownCloud, possibly other integrated accounts?
-* Probably some Gnome extensions, and maybe set up Compiz Fusion?
+* Add solarized-gedit
+* Create "Games" group in the Gnome menu
+* Install Steam
 * Perhaps break these packages into some sort of grouping, so I can interactively install or not install a group of packages
 * Add all of the changes that need to be made to my dotfiles, as well as any themes for things like VIM and the Gnome Shell that I can't live without
 
