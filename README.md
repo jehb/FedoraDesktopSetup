@@ -20,6 +20,8 @@ In lieu of using a bug tracker or tasklist, let me just lay out here the things 
 * Add all of the important pacakges to the package list
 * Add some codecs
 * Fonts?
+* Incease bash history size, or archive history items to another location
+* Fix the stupid hidden-by-default scrollbars - export GTK_OVERLAY_SCROLLING=0
 * Set up ownCloud, possibly other integrated accounts?
 * Add solarized-gedit
 * Create "Games" group in the Gnome menu
