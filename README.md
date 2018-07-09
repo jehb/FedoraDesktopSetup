@@ -19,7 +19,8 @@ In lieu of using a bug tracker or tasklist, let me just lay out here the things 
 * Add any extra repositories that I need: Chrome, RPM Fusion, ???
 * Add all of the important pacakges to the package list
 * Add some codecs
-* Fonts?
+* Fonts
+  * Source Code Pro for Powerline
 * Probably install some plugins for frequently used applications (GMic for Gimp, for example)
 * Incease bash history size, or archive history items to another location
 * Fix the stupid hidden-by-default scrollbars - export GTK_OVERLAY_SCROLLING=0
