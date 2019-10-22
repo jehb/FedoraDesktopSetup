@@ -1,3 +1,5 @@
+Main todo: Replace this whole damn project with an Ansible playbook.
+
 Fedora Done Quick
 ==================
 
